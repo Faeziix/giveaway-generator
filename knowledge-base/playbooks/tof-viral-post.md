@@ -181,7 +181,7 @@ Contrarian claim → Why most people are wrong → The real insight → Resource
 Pick a low-to-medium effort resource that has broad appeal:
 - **Best performers:** Framework collections, swipe files, cheat sheets, template libraries
 - **The resource must be REAL** — something you actually use internally. If it doesn't exist yet, build it first.
-- **Broad > Niche for TOF** — "25 UGC Frameworks" reaches more people than "UGC Frameworks for Supplement Brands"
+- **Broad topic, specific audience** — Within your target audience, pick topics with wide appeal. "25 UGC Frameworks" reaches more DTC operators than "UGC Frameworks for Supplement Brands." But do NOT broaden the AUDIENCE itself — a dietitian's audience is patients, not other dietitians. A realtor's audience is buyers, not other agents. Broaden the topic, not who you're talking to.
 
 ### Step 2: Identify the Credential Stack
 What proof do you have that makes this resource credible?
@@ -251,7 +251,7 @@ The resource name inside the post follows different rules than a landing page ti
 
 ## Common Mistakes
 
-1. **Making the resource too niche** — TOF is about breadth. "25 UGC Frameworks" > "UGC Frameworks for Skincare Brands"
+1. **Making the topic too niche within your audience** — Pick topics with broad appeal WITHIN the audience you're targeting. "25 UGC Frameworks" > "UGC Frameworks for Skincare Brands." But this does NOT mean reframing your audience — if you serve patients, make resources for patients; if you serve homebuyers, make resources for homebuyers. Never pivot the audience to "industry peers" unless that's who the client actually sells to.
 2. **Weak credentials** — If you can't stack at least 2 impressive numbers, the post won't convert
 3. **Including links** — LinkedIn's algorithm suppresses posts with external links. Put the link in DMs only
 4. **Generic hook** — "I created a free resource" gets zero engagement. The hook needs tension or specificity

@@ -265,7 +265,7 @@ For maximum impressions at top-of-funnel, distribute lead magnets via LinkedIn c
 | **The Contrarian** | Contrarian claim → Why they're wrong → Real insight → Resource → CTA | Challenging common practices | 200-350 |
 
 ### Best Resource Types for TOF Viral Posts
-Framework collections, swipe files, cheat sheets, template libraries — LOW to MEDIUM effort, BROAD appeal. Broad > niche at TOF. "25 UGC Frameworks" > "UGC Frameworks for Skincare."
+Framework collections, swipe files, cheat sheets, template libraries — LOW to MEDIUM effort, BROAD topic appeal within the target audience. Pick widely relevant topics, but do NOT reframe the audience itself. A dietitian's audience is patients, not other dietitians. A realtor's audience is buyers, not other agents. Broaden the topic ("25 UGC Frameworks" > "UGC Frameworks for Skincare"), never the audience.
 
 ### Critical Rules
 - **No links in the post** — LinkedIn suppresses posts with external URLs
